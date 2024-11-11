@@ -30,3 +30,9 @@ body {
         background-color: deepskyblue;
    }
 }
+
+.circle:hover {
+    animation-play-state: paused;
+    height: 150px;
+    width: 150px;
+}
