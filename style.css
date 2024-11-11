@@ -27,5 +27,6 @@ body {
 
     50% {
         transform: translateY(-200px);
-    }
+        background-color: deepskyblue;
+   }
 }
