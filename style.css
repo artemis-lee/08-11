@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    height: 100vh;
+}
+
+
+
+.circle {   
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3)
+
+}
